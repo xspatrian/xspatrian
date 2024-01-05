@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suyog aka xspatrian</h1>
 <h3 align="center">A passionate developer n hacker from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyQrQM4KF7pQVkBS_rRV1yjHwgFySoZqrRnCfcyVbjsjd-L2VscArb-Vx1Wcpm54FjPck&usqp=CAU">
 
 <p align="left"> <a href="https://twitter.com/xspatrian" target="blank"><img src="https://img.shields.io/twitter/follow/xspatrian?logo=twitter&style=for-the-badge" alt="xspatrian" /></a> </p>
 
