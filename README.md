@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/xspatrian" target="blank"><img src="https://img.shields.io/twitter/follow/xspatrian?logo=twitter&style=for-the-badge" alt="xspatrian" /></a> </p>
 
-- 🔭 I’m currently working on **epam.com on bugcrowd for testing**
+- 🔭 I’m currently working on **Networking,Tryhackme,Bug hunting,Portswigger**
 
 - 🌱 I’m currently learning **bug hunting**
 
