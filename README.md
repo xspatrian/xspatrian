@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as ** a Product Security Intern at HighRadius**
 
-- 🌱 I’m currently doing ** Web/API PT , doning bug hunting in my free time**
+- 🌱 I’m currently doing **Web/API PT , doning bug hunting in my free time**
 
 - 📝 I regularly write articles on [https://medium.com/@suyogpatil1810](https://medium.com/@suyogpatil1810)
 
