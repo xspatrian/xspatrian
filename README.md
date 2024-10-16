@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyog aka xspatrian</h1>
-<h3 align="center">A passionate developer n hacker from India</h3>
+<h3 align="center">A passionate H@ck3r and Lil bit Devloper from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/28/d9/a5/28d9a5107af5d4c4da117c05b4393b83.gif">
 
 <p align="left"> <a href="https://twitter.com/xspatrian" target="blank"><img src="https://img.shields.io/twitter/follow/xspatrian?logo=twitter&style=for-the-badge" alt="xspatrian" /></a> </p>
