@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/xspatrian" target="blank"><img src="https://img.shields.io/twitter/follow/xspatrian?logo=twitter&style=for-the-badge" alt="xspatrian" /></a> </p>
 
-- 🔭 I’m currently working on **Networking,Tryhackme,Linux,Pentesting,CTf's,Portswigger**
+- 🔭 I’m currently working as ** a Product Security Intern at HighRadius**
 
-- 🌱 I’m currently learning **bug hunting**
+- 🌱 I’m currently doing ** Web/API PT , doning bug hunting in my free time**
 
 - 📝 I regularly write articles on [https://medium.com/@suyogpatil1810](https://medium.com/@suyogpatil1810)
 
